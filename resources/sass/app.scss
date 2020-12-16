@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+.header {
+    background-color: $primary;
+}
+
+.white {
+    color: white;
+}
+
+.title-bg {
+    background-color: $primary;
+    padding: 5px;
+    margin-bottom: 15px;
+}
